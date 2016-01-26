@@ -1,0 +1,4 @@
+
+bash-3.2$ . tgenv/bin/activate
+(tgenv) bash-3.2$ python app.py
+
